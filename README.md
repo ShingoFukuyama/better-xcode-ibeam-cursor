@@ -1,6 +1,8 @@
 Better Xcode ibeam cursor
 =================
 
+Forked from [egold/better-xcode-ibeam-cursor](https://github.com/egold/better-xcode-ibeam-cursor)
+
 Better i-beam (text cursor) for Xcode for dark background / light text color themes.
 
 ### Directions:
@@ -8,7 +10,7 @@ Better i-beam (text cursor) for Xcode for dark background / light text color the
 ##### The easy way
 
 ```bash
-curl -L https://raw.githubusercontent.com/egold/better-xcode-ibeam-cursor/master/install.sh | bash 
+curl -L https://raw.githubusercontent.com/ShingoFukuyama/better-xcode-ibeam-cursor/master/install.sh | bash 
 ```
 
 ##### The manual way
@@ -23,11 +25,11 @@ You should now have an i-beam that is more easy to see on a dark or black backgr
 
 Before:
 
-![Original Xcode Ibeam](https://raw.github.com/egold/better-xcode-ibeam-cursor/master/cursor-example-before.png "Original Xcode Ibeam") 
+![Original Xcode Ibeam](https://raw.github.com/ShingoFukuyama/better-xcode-ibeam-cursor/master/cursor-example-before.png "Original Xcode Ibeam") 
 
 After:
 
-![Improved Xcode Ibeam](https://raw.github.com/egold/better-xcode-ibeam-cursor/master/cursor-example-after.png "Replacement Xcode Ibeam")
+![Improved Xcode Ibeam](https://raw.github.com/ShingoFukuyama/better-xcode-ibeam-cursor/master/cursor-example-after.png "Replacement Xcode Ibeam")
 
 ### Background
 
